@@ -86,4 +86,5 @@
     <a href="consulta.php">Consulta Inestructurada</a>
     <a href="creatividad.php">Creatividad</a>
     <a href="perfil.php">Mi Perfil</a>
+    <a href="../dashboard.php">Volver al inicio</a>
 </nav>
