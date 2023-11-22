@@ -1,3 +1,4 @@
+<?php include 'navbar_vistas.php'; ?>
 <h2>Aquí va el perfil</h2>
 <p>Contenido</p>
 

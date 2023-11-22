@@ -1,3 +1,4 @@
+<?php include 'navbar_vistas.php'; ?>
 <h2>Aquí va a haber algo creativo.</h2>
 <p>La creatividad es la inteligencia divirtiéndose. - Albert Einstein</p>
 

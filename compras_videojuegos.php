@@ -1,3 +1,4 @@
+<?php include 'navbar_vistas.php'; ?>
 <h2>Compras videojuegos</h2>
 <p>Contenido</p>
 

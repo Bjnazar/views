@@ -1,3 +1,4 @@
+<?php include 'navbar_vistas.php'; ?>
 <h2>Consultas generales</h2>
 <p>Contenido de la sección de Consultas generales.</p>
 
