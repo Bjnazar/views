@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-05-07T21:22:31.200Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="m1ArkDiVprFG8F66J14x" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-07T22:47:35.801Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="xoZP1Fn95XG3iEswgMEb" version="24.3.1" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
-    <mxGraphModel dx="2222" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1880" dy="1813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qqnhKsSnMTDeRwUh5UgO-137" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="930" width="940" height="810" as="geometry" />
+        </mxCell>
         <mxCell id="qqnhKsSnMTDeRwUh5UgO-116" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="10" y="-1" width="1130" height="581" as="geometry" />
         </mxCell>
@@ -335,7 +338,7 @@
           <mxGeometry x="540" y="10" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qqnhKsSnMTDeRwUh5UgO-118" value="«Component»&lt;br&gt;&lt;b&gt;Authentication&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="270" width="180" height="90" as="geometry" />
+          <mxGeometry x="1723" y="320" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="qqnhKsSnMTDeRwUh5UgO-119" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="qqnhKsSnMTDeRwUh5UgO-118">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -343,7 +346,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qqnhKsSnMTDeRwUh5UgO-120" value="«Component»&lt;br&gt;&lt;b&gt;AlertSender&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="520" width="180" height="90" as="geometry" />
+          <mxGeometry x="1723" y="570" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="qqnhKsSnMTDeRwUh5UgO-121" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="qqnhKsSnMTDeRwUh5UgO-120">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -351,10 +354,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qqnhKsSnMTDeRwUh5UgO-122" value="LegitFoods&lt;div&gt;DB&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="141.23000000000002" width="60" height="80" as="geometry" />
+          <mxGeometry x="1863" y="191.23000000000002" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qqnhKsSnMTDeRwUh5UgO-123" value="«Component»&lt;br&gt;&lt;b&gt;DataReceptor&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="-20" width="180" height="90" as="geometry" />
+          <mxGeometry x="1723" y="30" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="qqnhKsSnMTDeRwUh5UgO-124" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="qqnhKsSnMTDeRwUh5UgO-123">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -362,7 +365,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qqnhKsSnMTDeRwUh5UgO-125" value="«Component»&lt;br&gt;&lt;b&gt;DataManager&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1900" y="-20" width="180" height="90" as="geometry" />
+          <mxGeometry x="1943" y="30" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="qqnhKsSnMTDeRwUh5UgO-126" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="qqnhKsSnMTDeRwUh5UgO-125">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -370,7 +373,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qqnhKsSnMTDeRwUh5UgO-127" value="«Component»&lt;br&gt;&lt;b&gt;RequestListener&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="400" width="180" height="90" as="geometry" />
+          <mxGeometry x="1723" y="450" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="qqnhKsSnMTDeRwUh5UgO-128" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="qqnhKsSnMTDeRwUh5UgO-127">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -388,8 +391,8 @@
         <mxCell id="qqnhKsSnMTDeRwUh5UgO-131" value="Entidades interesadas" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="460" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qqnhKsSnMTDeRwUh5UgO-137" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="-40" width="940" height="810" as="geometry" />
+        <mxCell id="qqnhKsSnMTDeRwUh5UgO-138" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration: underline; display: inline !important; float: none;&quot;&gt;Central LegitGreen&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="-110" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
